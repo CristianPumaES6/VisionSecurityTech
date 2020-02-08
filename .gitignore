@@ -1,5 +1,5 @@
 # compiled output
-/dist
+#/dist
 /node_modules
 
 # Logs
@@ -31,4 +31,16 @@ lerna-debug.log*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
-!.vscode/extensions.json
+!.vscode/extensions.
+
+
+###########################OTROS
+.prettierrc
+nest-cli.json
+nodemon-debug.json
+nodemon.json
+package-lock.json
+README.md
+tsconfig.build.json
+tsconfig.json
+tslint.json
